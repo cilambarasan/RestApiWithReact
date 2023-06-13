@@ -1,0 +1,62 @@
+.book
+{
+    position: absolute;
+    left: 50%;
+    top: 30%;
+
+}
+.bp
+{
+    position: absolute;
+    font-weight: 600;
+    font-size: 20Px;
+    font-family: 'Times New Roman', Times, serif;
+    left: 43%;
+}
+.bp1
+{
+    position: absolute;
+    font-weight: 400;
+    font-size: 20Px;
+    font-family: 'Times New Roman', Times, serif;
+    left: 32%;
+    top: 15%;
+}
+.b1
+{
+    width: 150%;
+}
+.bub
+{
+    position: absolute;
+    left: 40%;
+}
+.boim
+{
+    position: absolute;
+    left: 10%;
+    top: 20%;
+}
+.divi
+{
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+}
+.hu
+{
+    position: absolute;
+    left: 20%;
+}
+.din
+{
+    position: absolute;
+    right: 5%;
+}
+.din2
+{
+    position: absolute;
+    left: 9%;
+    text-decoration: none;
+    color: chocolate;
+}

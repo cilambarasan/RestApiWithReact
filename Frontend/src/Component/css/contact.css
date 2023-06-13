@@ -1,0 +1,69 @@
+.contact
+{
+    position: absolute;
+    top: 15%;
+    left: 42%;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.ci1
+{
+    position: absolute;
+    left: 8%;
+    top: 40%;
+}
+.cp1
+{
+    position: absolute;
+    left: 3%;
+    top: 55%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+.cp2
+{
+    position: absolute;
+    left: 7%;
+    top: 59%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.ci2
+{
+    position: absolute;
+    left: 44%;
+    top: 40%;
+}
+.cp3
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    position: absolute;
+    top: 55%;
+    left: 42%;
+}
+.ti1
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-style: italic;
+    position: absolute;
+    left: 25%;
+    top: 23%;
+}
+.ci3
+{
+    position: absolute;
+    right: 15%;
+    top: 40%;
+}
+.cp4
+{
+    position: absolute;
+    right: 13%;
+    top: 55%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}

@@ -1,0 +1,97 @@
+.home
+{
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+   
+}
+.logo
+{
+    position: absolute;
+    top: 3%;
+    right: 2%;
+}
+.tit
+{
+    position: absolute;
+    top: 3%;
+    right: 50%;
+    color:indigo;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+.info
+{
+    position: absolute;
+    top: 30%;
+    left: 3%;
+    
+}
+.par
+{
+    
+    font-size: 30px;
+    font-weight:450;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(60, 51, 106);
+}
+.img
+{
+    position: absolute;
+    top: 45%;
+    left: 5%;
+
+}
+.img1
+{
+    position: absolute;
+    top: 60%;
+    left: 5%;
+
+}
+.img2
+{
+    position: absolute;
+    top: 75%;
+    left: 5%;
+
+}
+.img3
+{
+    position: absolute;
+    top: 89%;
+    left: 5%;
+
+}
+.p1
+{
+    position: absolute;
+    top: 46.5%;
+    left:10%;
+    color: brown;
+
+}
+.p2
+{
+    position: absolute;
+    top: 61.5%;
+    left:10%;
+    color: brown;
+
+}
+.p3
+{
+    position: absolute;
+    top: 76.5%;
+    left:10%;
+    color: brown;
+
+}
+.p4
+{
+    position: absolute;
+    top: 90.5%;
+    left:10%;
+    color: brown;
+
+}

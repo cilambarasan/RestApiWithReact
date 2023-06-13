@@ -1,0 +1,98 @@
+.card3
+{
+    position: absolute;
+    right: 70%;
+    bottom: 9%;
+    left: 5%;
+    top: 50%;
+    opacity: 70%;
+     border-radius: 10%;
+     border-color: rgb(241, 4, 4);
+    
+}
+.paper
+{
+    position: absolute;
+    top: 6%;
+    color: aqua;
+
+}
+.mar
+{
+    position: absolute;
+    top: 15%;
+    right: 10%;
+}
+.im
+{
+    
+    border-radius: 50%;
+}
+.name
+{
+    position: absolute;
+    top: 100%;
+    left: 15%;
+    font-weight: 600;
+}
+.or
+{
+    position: absolute;
+    top: 115%;
+    left: 6%;
+
+}
+.bac
+{
+    opacity: 70%;
+}
+.pa 
+{
+    position: absolute;
+    top: 16%;
+    left: 5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+
+}
+.card4
+{
+    position: absolute;
+    right: 38%;
+    bottom: 9%;
+    left: 37%;
+    top: 50%;
+    opacity: 70%;
+     border-radius: 10%;
+     border-color: rgb(241, 4, 4);
+}
+.card5
+{
+    position: absolute;
+    right: 5%;
+    bottom: 9%;
+    left: 70%;
+    top: 50%;
+    opacity: 70%;
+     border-radius: 10%;
+     border-color: rgb(241, 4, 4);
+}
+.who
+{
+    position: absolute;
+    left: 5%;
+    top: 5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: 600;
+    
+
+}
+.aii
+{
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    left: 3%;
+    right: 3%;
+    top: 20%;
+}

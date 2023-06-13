@@ -1,0 +1,58 @@
+.finbo
+{
+    top: 11%;
+    width: 2%;
+    position: absolute;
+    left: 4%;
+}
+.finbo1
+{
+    position: absolute;
+    width: 2%;
+    left: 14%;
+    top: 11%;
+}
+.l1
+{
+    position: absolute;
+    top: 11.5%;
+}
+.l2
+{
+    position: absolute;
+    top: 11.5%;
+    left: 10%;
+}
+.ser
+{
+    position: absolute;
+    top: 11%;
+    right: 2%;
+}
+.simim
+{
+    position: absolute;
+    top: 11%;
+    right: 15%;
+}
+.dropdown
+{
+
+  width: 120px;
+  
+  height: 0%;
+}
+.dropdown1
+{
+  position: absolute;
+  bottom: 50%;
+ left: 73%;
+  padding-bottom: 17.5%;
+ 
+}
+.dropp
+{
+  position: absolute;
+  top: 9%;
+  left: -45%;
+}

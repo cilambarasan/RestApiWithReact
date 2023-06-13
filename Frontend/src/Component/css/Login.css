@@ -1,0 +1,75 @@
+.card
+{
+    position: absolute;
+    top:13%;
+    bottom: 8%;
+    left: 10%;
+    right:10%;
+}
+.head
+{
+    position: absolute;
+    right: 18%;
+    top: 5%;
+    font-weight: 700;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bo
+{
+    position: absolute;
+    right: 12%;
+    top: 17%;
+}
+.logbu
+{
+    position: absolute;
+    background-color:rgb(32, 112, 241);
+    border-radius: 300px;
+    left:26%;
+}
+.lofo
+{
+    position: absolute;
+    color:black ;text-decoration: none;
+    font-size: 12px;
+    left: 59%;
+}
+.losi
+{
+    color:black ;text-decoration: none;
+    font-size: 13px;
+    position: absolute;
+    bottom: 3%;
+
+}
+.form
+{
+    position: absolute;
+    right: 20%;
+    top: 35%;
+}
+.nam
+{
+    width: 250px;
+    height: 30px;
+}
+.pass
+{
+    width: 250px;
+    height: 30px;
+}
+.logm
+{
+    position: absolute;
+    border-radius: 200px;
+    top: 0px;
+    right: 105%;
+}
+.logm1
+{
+    position: absolute;
+    border-radius: 200px;
+    top: 27%;
+    right: 105%;
+}

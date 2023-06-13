@@ -1,0 +1,63 @@
+.forpa
+{
+    position: absolute;
+    left: 5%;
+}
+.ff1
+{
+    position: absolute;
+    right: 30%;
+    top: 35%;
+}
+.old
+{
+    width: 130%;
+}
+.fp
+{
+    position: absolute;
+    right: 30%;
+    top: 26%;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    color: rgb(24, 57, 221);
+}
+.buf
+{
+    position: absolute;
+    opacity: 90%;
+    top: 155%;
+    right: 20%;
+    left: 35%;
+}
+.Forg
+{
+    text-decoration: none;
+    position: absolute;
+    bottom: 43%;
+    right:  27%;
+    color: black;
+    opacity: 80%;
+
+}
+.old1
+{
+    width: 120%;
+}
+.bug
+{
+    position: absolute;
+    left: 28%;
+    top: 120%;
+}
+.fp1
+{
+    position: absolute;
+    right: 30%;
+    top: 26%;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 23px;
+    color: rgb(24, 57, 221);
+}

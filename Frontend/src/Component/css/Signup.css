@@ -1,0 +1,72 @@
+
+.card1
+{
+    position: absolute;
+    top:13%;
+    bottom: 10%;
+    left: 10%;
+    right:10%;
+}
+.signim
+{
+    position: absolute;
+    right: 0%;
+
+}.sina
+{
+    width: 250px;
+}
+.siad
+{
+    width: 250px;
+    height: 50px;
+}
+.sipa
+{
+    width: 250px;
+}
+.siem
+{
+    width: 250px;
+}
+.siph
+{
+    width: 250px;
+}
+.headsi
+{
+    position: absolute;
+    top: 5%;
+    font-size: 30px;
+    font-weight: 500;
+    left: 10%;
+}
+.form1
+{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+.sigbut
+{
+    
+    position: absolute;
+    left: 28%;
+}
+.gif
+{
+    position: absolute;
+    left: 0%;
+    bottom: 0%;
+}
+.gif1
+{
+    position: absolute;
+    left: 45%;
+    
+}
+.bi
+{
+    text-decoration: none;
+    color: black;
+}
